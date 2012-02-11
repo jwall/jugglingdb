@@ -4,7 +4,7 @@
   "description": "ORM for every database: redis, mysql, neo4j, mongodb, postgres, sqlite",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/1602/jugglingdb"
+    "url": "https://jwall@github.com/jwall/jugglingdb.git"
   },
   "main": "index.js",
   "scripts": {
